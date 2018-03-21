@@ -1,6 +1,6 @@
 # weatherterm
 
-A web scraping application that will scrape weather forecast information from https://weather (dot) com and present it in a terminal.
+A web scraping application that will scrape weather forecast information from https://weather.com and present it in a terminal.
 
 Other options will include:
 
